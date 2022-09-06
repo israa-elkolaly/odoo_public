@@ -1,7 +1,7 @@
 
 {
-    'name': 'access card',
-    'category': 'HR',
+    'name': 'Access Card request',
+    'category': 'Human Resources',
     'description': """
                    HR Requests for access card .
                  """,
@@ -9,7 +9,7 @@
                ''
                ,
     'version': '15.0',
-    'author': 'Israa Elkolaly <<israa.elkolaly@gmail.com>>',
+    'author': 'Israa Elkolaly',
     'images': [
 
     ],
